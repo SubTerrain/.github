@@ -1,14 +1,14 @@
 #  <img src="https://user-images.githubusercontent.com/61543012/197379089-210fdb6e-4b55-4e7a-8080-e2ac88f2a4f6.png" height="35" width="35" align-items="center" justify-content="center" /> SubTerrain
-It is importatnt to query the blockchain for meaningful metrics on upcoming trends in the metaverse. Let us guide you using data analytics and market sentiment.
+Musicians can enjoy the impact and support of the blockchain community by using NFT's to maintain thier content. As the music industry expands you can keep track of your digital entities in the metaverse.
 
-## Know when the next big thing in the metaverse is about to 3RUPT
+## The power of a record label and the freedom of an independant artist
 
-😡 Frustrated? Can't seem to buy before the blast-off? 
+🎹 Share your custom sounds/beats/recordings as tokens on the blockchain.
 
-❓ Use pre-built queries or custom queries, even third-party queries from other dapps.
+🥁 Built in file conversion methods on the dapp and details about the smart contract associated with your token.
 
-🔺🔻 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+🎸 Get the rights to your content stored on an immutable ledger.
 
-🚩 Be the FIRST to get the latest and the greatest.
+🎵 Instant releases and sharing without the need to wait for offer approvals. (Signing bonus' coming soon!)
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
