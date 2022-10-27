@@ -7,7 +7,7 @@ Musicians can enjoy the impact and support of the blockchain community by using 
 
 🥁 Built in file conversion methods on the dapp and details about the smart contract associated with your token.
 
-🎸 Get the rights to your content stored on an immutable ledger.
+🎸 Get the rights to your content stored on an hard wallet or ledger.
 
 🎵 Instant releases and sharing without the need to wait for offer approvals. (Signing bonus' coming soon!)
 
